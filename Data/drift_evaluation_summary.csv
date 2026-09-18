@@ -1,2 +1,2 @@
-ground_truth_available,ground_truth_column,detector_output,accuracy,precision,recall,f1,false_positive_rate,detection_delay_observations
-False,,detected_status,,,,,,
+evaluation_type,ground_truth_available,ground_truth_column,detector_output,accuracy,precision,recall,f1,false_positive_rate,detection_delay_observations,three_state_accuracy
+ground_truth_status,True,actual_status,detected_status,0.7418623265741728,0.9317889317889317,0.2778204144282425,0.42802246526751403,0.010838445807770962,41,0.6802961579509071
