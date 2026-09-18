@@ -1,0 +1,2 @@
+ground_truth_available,ground_truth_column,detector_output,accuracy,precision,recall,f1,false_positive_rate,detection_delay_observations
+False,,detected_status,,,,,,
